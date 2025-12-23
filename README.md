@@ -23,6 +23,14 @@ python hyderabad_eda.py --save-pickle
 streamlit run streamlit_app.py
 ```
 
+Sample data included
+--------------------
+For quick testing and to keep the repository lightweight, a small sample (100 rows) is included as `hyderabad_sample.csv`. The full dataset is excluded from the latest commit to keep the repository small; to reproduce the full analysis, run the cleaning script against your full CSV or request access to the full dataset.
+
+Repository link (resume-ready)
+--------------------------------
+https://github.com/bhavyasripoloju/real_estate
+
 Notes
 - The cleaning script drops rows with NaN values for core numeric fields (price(L), rate_persqft, area_insqft). If you prefer imputation instead of dropping, edit `hyderabad_eda.py`.
 - The Streamlit app expects `hyderabad_data_cleaned.pkl` (or CSV) in the same directory.
