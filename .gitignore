@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+.env
+.vscode/
+.idea/
+*.pyc
+*.pkl
+*.csv
+.DS_Store
+hyd_plots.zip
+*.egg-info
+dist/
+build/
+Thumbs.db
+/.pytest_cache
