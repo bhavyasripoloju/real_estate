@@ -1,0 +1,102 @@
+,title,location,price(L),rate_persqft,area_insqft,building_status
+0,3 BHK Apartment,Nizampet,108.0,6000 ,1805 ,Under Construction
+1,3 BHK Apartment,Bachupally,85.8,5500 ,1560 ,Under Construction
+2,2 BHK Apartment,Dundigal,55.64,5200 ,1070 ,Under Construction
+3,2 BHK Apartment,Pocharam,60.48,4999 ,1210 ,Under Construction
+4,3 BHK Apartment,Kollur,112.99999999999999,5999 ,1900 ,Under Construction
+5,3 BHK Apartment,Kukatpally,124.0,8399 ,1480 ,Under Construction
+6,Residential Plot,Choutuppal,48.99,2039 ,2403 ,New
+7,3 BHK Apartment,Jeedimetla,101.0,6073 ,1675 ,Under Construction
+8,3 BHK Apartment,Uppal Kalan,107.0,6299 ,1705 ,Under Construction
+9,3 BHK Apartment,Rajendra Nagar,108.0,6000 ,1811 ,Under Construction
+10,3 BHK Apartment,Yapral,104.0,6000 ,1735 ,Ready to move
+11,2 BHK Apartment,Kompally,66.82,4500 ,1485 ,Ready to move
+12,4 BHK Villa,Patighanpur,688.0,14999 ,4591 ,Under Construction
+13,3 BHK Apartment,Tellapur,134.0,7299 ,1845 ,Under Construction
+14,2 BHK Apartment,Tellapur,94.17,6299 ,1495 ,Under Construction
+15,2 BHK Apartment,Madeenaguda,82.24,6400 ,1285 ,Under Construction
+16,4 BHK Apartment,Shamshabad,227.0,6500 ,3500 ,Under Construction
+17,4 BHK Apartment,Puppalaguda,404.0,10891 ,3715 ,Under Construction
+18,3 BHK Apartment,Mallampet,81.25,5000 ,1625 ,Under Construction
+19,3 BHK Apartment,Tellapur,106.0,6499 ,1643 ,Under Construction
+20,3 BHK Apartment,Meerpet,102.0,6000 ,1711 ,Under Construction
+21,3 BHK Apartment,Pocharam,100.0,5199 ,1942 ,Under Construction
+22,2 BHK Apartment,Mallapur,55.33,4999 ,1107 ,Under Construction
+23,3 BHK Apartment,Tukkuguda,82.65,4800 ,1722 ,Under Construction
+24,3 BHK Apartment,Kondapur,166.0,8688 ,1915 ,Under Construction
+25,2 BHK Apartment,Chandanagar,86.12,6500 ,1325 ,Under Construction
+26,2 BHK Apartment,Nizampet,52.52,5500 ,955 ,Under Construction
+27,2 BHK Apartment,Bachupally,64.24,5500 ,1168 ,Under Construction
+28,3 BHK Apartment,Dundigal,58.03,5200 ,1116 ,Under Construction
+29,2 BHK Apartment,Pocharam,60.48,4999 ,1210 ,Under Construction
+30,3 BHK Apartment,Kollur,145.0,5999 ,2425 ,Under Construction
+31,2 BHK Apartment,Kukatpally,104.0,8399 ,1250 ,Under Construction
+32,Residential Plot,Choutuppal,97.81,2039 ,4797 ,New
+33,3 BHK Apartment,Saroor Nagar,146.0,7400 ,1983 ,Under Construction
+34,3 BHK Apartment,Uppal Kalan,85.03,6299 ,1350 ,Under Construction
+35,3 BHK Apartment,Rajendra Nagar,118.0,6000 ,1980 ,Under Construction
+36,3 BHK Apartment,Yapral,113.99999999999999,6000 ,1910 ,Ready to move
+37,3 BHK Apartment,Kompally,75.69,4500 ,1682 ,Ready to move
+38,4 BHK Villa,Patighanpur,974.0,14999 ,6500 ,Under Construction
+39,3 BHK Apartment,Tellapur,154.0,7299 ,2115 ,Under Construction
+40,3 BHK Apartment,Sainikpuri,70.67,5889 ,1200 ,Ready to move
+41,3 BHK Apartment,Chandanagar,149.0,8399 ,1785 ,Under Construction
+42,3 BHK Apartment,Chandanagar,134.0,8399 ,1600 ,Under Construction
+43,4 BHK Villa,Kollur,433.0,11136 ,3888 ,Under Construction
+44,4 BHK Villa,Kollur,496.0,11133 ,4455 ,Under Construction
+45,5 BHK Villa,Kollur,569.0,11132 ,5111 ,Under Construction
+46,2 BHK Apartment,Bolarum,60.76,4900 ,1240 ,Ready to move
+47,3 BHK Apartment,Bolarum,78.41,4900 ,1601 ,Ready to move
+48,3 BHK Apartment,Bolarum,68.61,4900 ,1400 ,Ready to move
+49,2 BHK Apartment,Bolarum,58.8,4900 ,1200 ,Ready to move
+50,3 BHK Apartment,Bolarum,76.93,4900 ,1570 ,Ready to move
+51,3 BHK Apartment,Bolarum,77.43,4900 ,1581 ,Ready to move
+52,3 BHK Apartment,Bolarum,64.69,4900 ,1321 ,Ready to move
+53,2 BHK Apartment,Bolarum,56.36,4900 ,1150 ,Ready to move
+54,2 BHK Apartment,Bolarum,57.83,4900 ,1180 ,Ready to move
+55,2 BHK Apartment,Bolarum,53.9,4900 ,1100 ,Ready to move
+56,2 BHK Apartment,Bolarum,57.34,4900 ,1170 ,Ready to move
+57,3 BHK Apartment,Kollur,85.78,5999 ,1430 ,Under Construction
+58,3 BHK Apartment,Kollur,106.0,5999 ,1775 ,Under Construction
+59,2 BHK Apartment,Kollur,77.68,5999 ,1295 ,Under Construction
+60,3 BHK Apartment,Mallampet,79.75,5000 ,1595 ,Under Construction
+61,2 BHK Apartment,Mallampet,63.25,5000 ,1265 ,Under Construction
+62,2 BHK Apartment,Bachupally,67.76,5600 ,1210 ,Under Construction
+63,2 BHK Apartment,Bachupally,66.07,5604 ,1180 ,Under Construction
+64,2 BHK Apartment,Bachupally,69.16,5600 ,1235 ,Under Construction
+65,3 BHK Apartment,Bachupally,83.43,5603 ,1490 ,Under Construction
+66,3 BHK Apartment,Jeedimetla,108.0,5950 ,1830 ,Ready to move
+67,3 BHK Apartment,Jeedimetla,108.0,5950 ,1830 ,Ready to move
+68,3 BHK Apartment,Jeedimetla,123.0,5950 ,2080 ,Ready to move
+69,3 BHK Apartment,Jeedimetla,123.0,5950 ,2080 ,Ready to move
+70,3 BHK Apartment,Jeedimetla,148.0,5950 ,2495 ,Ready to move
+71,3 BHK Apartment,Jeedimetla,148.0,5950 ,2495 ,Ready to move
+72,4 BHK Apartment,Jeedimetla,180.0,5950 ,3030 ,Ready to move
+73,4 BHK Apartment,Jeedimetla,180.0,5950 ,3030 ,Ready to move
+74,3 BHK Apartment,Jeedimetla,112.99999999999999,5950 ,1915 ,Ready to move
+75,3 BHK Apartment,Jeedimetla,112.99999999999999,5950 ,1915 ,Ready to move
+76,3 BHK Apartment,Jeedimetla,154.0,5950 ,2590 ,Ready to move
+77,3 BHK Apartment,Jeedimetla,154.0,5950 ,2590 ,Ready to move
+78,4 BHK Apartment,Jeedimetla,187.0,5950 ,3150 ,Ready to move
+79,4 BHK Apartment,Jeedimetla,187.0,5950 ,3150 ,Ready to move
+80,4 BHK Villa,Gagillapur,157.0,7215 ,2176 ,Under Construction
+81,4 BHK Villa,Gagillapur,171.0,7193 ,2377 ,Under Construction
+82,4 BHK Villa,Gagillapur,190.0,7210 ,2635 ,Under Construction
+83,4 BHK Villa,Gagillapur,284.0,7188 ,3951 ,Under Construction
+84,4 BHK Villa,Gagillapur,236.0,7188 ,3283 ,Under Construction
+85,4 BHK Villa,Gagillapur,329.0,7205 ,4566 ,Under Construction
+86,3 BHK Apartment,Manikonda,128.0,7000 ,1841 ,Ready to move
+87,2 BHK Apartment,Manikonda,101.0,7000 ,1449 ,Ready to move
+88,2 BHK Apartment,Manikonda,92.12,7000 ,1316 ,Ready to move
+89,2 BHK Apartment,Manikonda,101.0,7000 ,1446 ,Ready to move
+90,2 BHK Apartment,Manikonda,90.72,7000 ,1296 ,Ready to move
+91,3 BHK Apartment,Manikonda,135.0,7000 ,1932 ,Ready to move
+92,3 BHK Apartment,Manikonda,131.0,7000 ,1874 ,Ready to move
+93,3 BHK Apartment,Manikonda,117.0,7000 ,1676 ,Ready to move
+94,2 BHK Apartment,Manikonda,108.0,7000 ,1551 ,Ready to move
+95,3 BHK Apartment,Manikonda,134.0,7000 ,1927 ,Ready to move
+96,3 BHK Apartment,Manikonda,134.0,7000 ,1926 ,Ready to move
+97,3 BHK Apartment,Manikonda,121.0,7000 ,1732 ,Ready to move
+98,4 BHK Apartment,Jubilee Hills,451.0,13999 ,3225 ,Under Construction
+99,2 BHK Apartment,Bachupally,66.35,5604 ,1185 ,Ready to move
+100,3 BHK Independent House,Dammaiguda,260.0,8125 ,3200 ,Ready to move
